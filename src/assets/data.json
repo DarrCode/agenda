@@ -1,0 +1,8 @@
+[
+    {"id": 1,"name": "Diego", "last_name": "Rojas", "phone": "04269056277", "email": "diego.rojas0640@gmail.com", "active": true},
+    {"id": 2,"name": "Andres", "last_name": "Reina", "phone": "0426905682", "email": null, "active": false},
+    {"id": 3,"name": "Frnacisco", "last_name": null, "phone": "0414485002", "email": "andres.reina@gmail.com" , "active": true},
+    {"id": 4,"name": "Yelitza", "last_name": "Reina", "phone": "02392314859", "email": "yyrr1390@yahoo.com" , "active": true},
+    {"id": 5,"name": "Alejandra", "last_name": "Suarez", "phone": "02392314859", "email": "alesuarez05@yahoo.com" , "active": false},
+    {"id": 6,"name": "Pedro", "last_name": "Tovar", "phone": "04144459383", "email": null,   "active": false}
+]
